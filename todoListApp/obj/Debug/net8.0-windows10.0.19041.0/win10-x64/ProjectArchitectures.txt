@@ -1,0 +1,1 @@
+C:\Users\samuel.widlund\repos\todoList-dotnetMAUI\todoListApp\todoListApp.csproj;x64
