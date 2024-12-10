@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samuel.widlund\\repos\\todoList-dotnetMAUI\\todoListApp\\todoListApp.csproj": {}
+    "C:\\Users\\samuel\\samWidlundRepos\\todolistDotnetMAUI\\todoListApp\\todoListApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samuel.widlund\\repos\\todoList-dotnetMAUI\\todoListApp\\todoListApp.csproj": {
+    "C:\\Users\\samuel\\samWidlundRepos\\todolistDotnetMAUI\\todoListApp\\todoListApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samuel.widlund\\repos\\todoList-dotnetMAUI\\todoListApp\\todoListApp.csproj",
+        "projectUniqueName": "C:\\Users\\samuel\\samWidlundRepos\\todolistDotnetMAUI\\todoListApp\\todoListApp.csproj",
         "projectName": "todoListApp",
-        "projectPath": "C:\\Users\\samuel.widlund\\repos\\todoList-dotnetMAUI\\todoListApp\\todoListApp.csproj",
-        "packagesPath": "C:\\Users\\samuel.widlund\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samuel.widlund\\repos\\todoList-dotnetMAUI\\todoListApp\\obj\\",
+        "projectPath": "C:\\Users\\samuel\\samWidlundRepos\\todolistDotnetMAUI\\todoListApp\\todoListApp.csproj",
+        "packagesPath": "C:\\Users\\samuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samuel\\samWidlundRepos\\todolistDotnetMAUI\\todoListApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\samuel.widlund\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

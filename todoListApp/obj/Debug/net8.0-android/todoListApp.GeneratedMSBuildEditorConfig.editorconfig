@@ -12,35 +12,35 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = todoListApp
-build_property.ProjectDir = C:\Users\samuel.widlund\repos\todoList-dotnetMAUI\todoListApp\
+build_property.ProjectDir = C:\Users\samuel\samWidlundRepos\todolistDotnetMAUI\todoListApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/samuel.widlund/repos/todoList-dotnetMAUI/todoListApp/App.xaml]
+[C:/Users/samuel/samWidlundRepos/todolistDotnetMAUI/todoListApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = todoListApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/samuel.widlund/repos/todoList-dotnetMAUI/todoListApp/AppShell.xaml]
+[C:/Users/samuel/samWidlundRepos/todolistDotnetMAUI/todoListApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = todoListApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/samuel.widlund/repos/todoList-dotnetMAUI/todoListApp/MainPage.xaml]
+[C:/Users/samuel/samWidlundRepos/todolistDotnetMAUI/todoListApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = todoListApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/samuel.widlund/repos/todoList-dotnetMAUI/todoListApp/Resources/Styles/Colors.xaml]
+[C:/Users/samuel/samWidlundRepos/todolistDotnetMAUI/todoListApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = todoListApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/samuel.widlund/repos/todoList-dotnetMAUI/todoListApp/Resources/Styles/Styles.xaml]
+[C:/Users/samuel/samWidlundRepos/todolistDotnetMAUI/todoListApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = todoListApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

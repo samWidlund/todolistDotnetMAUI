@@ -9,7 +9,7 @@
             Spacing="25">
 
             <Label
-                Text="c#-samuels to-do list!"
+                Text="to-do list"
                 Style="{StaticResource Headline}"
                 HorizontalOptions="Start" 
                 SemanticProperties.HeadingLevel="Level2"
